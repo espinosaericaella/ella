@@ -6,7 +6,7 @@ int main(){
 	// void sampl(int x) walang nirereturn, may pinapasa
 	// int sample(intx) may nireretun, may pinapasa
 	
-	
+	// ganda ni elisha
 	/*
 		for(x=1; x<=10; x++){
 			printf("%d ", x);
